@@ -31,11 +31,11 @@
     color: #0f0f0f;
 }
 
-/**about us**/
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
 
-.row-content-about {
-    margin: 0px auto;
-    padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
-    min-height: 10px;
+.navbar-dark {
+    background-color: #512DA8;
 }
